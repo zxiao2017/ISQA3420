@@ -1,12 +1,12 @@
-Use Case 1
-Title: Developer Determine License and Vulnerability
-Primary Actor: Developer
-Goal in Context: Scan all external softeare package and gather vulnerability information
-Stakeholders: Developre / Manager
-Preconditions: Developer is able to evaluate the software pakage's vulnerability and license infromation, by using NIST vulnerability database
-Main Sucess Scenario: Developer checked the software package before implementation
-Failed End Conditions: Developer uses invalid license and vulnerability  information for the project
-Trigger: Developer upload a external software package
+Use Case 1<br>
+Title: Developer Determine License and Vulnerability<br>
+Primary Actor: Developer<br>
+Goal in Context: Scan all external softeare package and gather vulnerability information<br>
+Stakeholders: Developre / Manager<br>
+Preconditions: Developer is able to evaluate the software pakage's vulnerability and license infromation, by using NIST vulnerability database<br>
+Main Sucess Scenario: Developer checked the software package before implementation<br>
+Failed End Conditions: Developer uses invalid license and vulnerability  information for the project<br>
+Trigger: Developer upload a external software package<br>
 
 Use Case 2
 Title: Corporate Manager Dtermine the Risk of External Source
