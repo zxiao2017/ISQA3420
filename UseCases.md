@@ -1,4 +1,4 @@
-Use Case 1<br>
+##Use Case 1<br>
 Title: Developer Determine License and Vulnerability<br>
 Primary Actor: Developer<br>
 Goal in Context: Scan all external software package. Check package license information and gather vulnerability information from NIST vulnerability database<br>
@@ -8,7 +8,7 @@ Main Success Scenario: Developer check the software package license and vulnerab
 Failed End Conditions: Developer receives invalid license and vulnerability information<br>
 Trigger: Developer receives external software package<br>
 
-Use Case 2<br>
+##Use Case 2<br>
 Title: Manager Check package Policy<br>
 Primary Actor: Manager<br>
 Goal in Context: The manager is able to check all the license and vulnerability policy information and be able to edit/create policy in policy database<br>
@@ -18,7 +18,7 @@ Main Success Scenario: Manager receives correct license and vulnerability inform
 Failed End Conditions: Manager cannot retrieve package policy information from policy database<br>
 Trigger: Manager retrieve software package policy information from policy database<br>
 
-Use Case 3<br>
+##Use Case 3<br>
 Title: Developer Retrieve License and Vulnerability<br>
 Primary Actor: Developer<br>
 Goal in Context: Developer is able to retrieve all of the software package license and vulnerability result from license and vulnerability database<br>
