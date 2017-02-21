@@ -25,5 +25,5 @@ Goal in Context: Developer is able to retrieve all of the software package licen
 Stakeholders: Developer<br>
 Preconditions: Developer has the authority to access license and vulnerability database / Developer wants to check package license and vulnerability information<br>
 Main Success: The software package license and vulnerability information is stored in the license and vulnerability database<br>
-Failed End Condition: The software package that developer retrieved is not excess in license and vulnerability database<br>
+Failed End Condition: Developer does not have the access permission to the license and vulnerability database<br>
 Trigger: Developer upload the name of the pakcage to which license and vulnerability is request<br>
