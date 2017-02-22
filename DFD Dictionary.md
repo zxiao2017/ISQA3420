@@ -5,13 +5,13 @@ Manager - Internal manager to the organization and has the authority to control 
 ##Processes<br>
 OSS Check - The process organize the package that being sent to NIST Vulnerability Database and Scan for package license<br>
 Scanner - The process is to scan all the package that has been sent for check license avaliability<br>
-Retrieve License & Vulnerability - This process is to retrieve package license and vulnerability information from license and vulnerability                                    database<br>
+Retrieve License & Vulnerability - This process is to retrieve package license and vulnerability information from license and vulnerability  database<br>
 Retrieve Policy - retrieve all the policy information from policy database<br>
 Set Policy - Manager can modify, edit or create policy to policy database through this process<br>
 
 ##Data Stores<br>
-NIST Vulnerability DB - The data store contains software vulnerability information that allows people send package to check vulnerability                           information<br>
-License & Vulnerability DB - All of the packages checked results needs to be stored in this database and use for internally in this                                      organization<br>
+NIST Vulnerability DB - The data store contains software vulnerability information that allows people send package to check vulnerability    information<br>
+License & Vulnerability DB - All of the packages checked results needs to be stored in this database and use for internally in this         organization<br>
 Policy DB - The database which contains the policies for project vulnerabilities<br>
 
 ## Data Flows<br>
