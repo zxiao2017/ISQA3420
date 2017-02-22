@@ -9,11 +9,11 @@ Failed End Conditions: Developer receives invalid license and vulnerability info
 Trigger: Developer check the package<br>
 
 ##Use Case 2<br>
-Title: Manager Check package Policy<br>
+Title: Manager Check Package Policy<br>
 Primary Actor: Manager<br>
 Goal in Context: The manager is able to check the package policy information and be able to edit/create policy in policy database<br>
 Stakeholders: Manager<br>
-Preconditions: Relevant policy information is in the Policy database<br>
+Preconditions: Relevant policy information is in the policy database<br>
 Main Success Scenario: Manager is able to retrieve correct policy from the policy database<br>
 Failed End Conditions: Manager cannot retrieve package policy information from policy database<br>
 Trigger: Manager retrieve software package policy information from policy database<br>
@@ -26,4 +26,4 @@ Stakeholders: Developer<br>
 Preconditions: Developer has the authority to access license and vulnerability database / Developer wants to check package license and vulnerability information<br>
 Main Success: The software package license and vulnerability information is stored in the license and vulnerability database<br>
 Failed End Condition: Developer does not have the access permission to the license and vulnerability database<br>
-Trigger: Developer upload the name of the pakcage to which license and vulnerability is request<br>
+Trigger: Developer upload the name of the package to which license and vulnerability is request<br>
