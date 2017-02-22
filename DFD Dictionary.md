@@ -3,7 +3,7 @@ Developer - Internal developer to the organization<br>
 Manager - Internal manager to the organization and has the authority to control the project<br>
 
 ##Processes<br>
-OSS Check - The process organize the package that being sent to NIST Vulnerability Database and Scan for package license<br><br>
+OSS Check - The process organize the package that being sent to NIST Vulnerability Database and Scan for package license<br>
 Scanner - The process is to scan all the package that has been sent for check license avaliability<br>
 Retrieve License & Vulnerability - This process is to retrieve package license and vulnerability information from license and vulnerability database<br>
 Retrieve Policy - retrieve all the policy information from policy database<br>
